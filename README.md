@@ -8,7 +8,7 @@
 ## 🧠 Maha-Mastishka (The Brain)
 The system is powered by a **Raspberry Pi Zero 2 W**, acting as the central nervous system. It manages all logic and hardware-software synergy without the need for secondary microcontrollers.
 
-*   **OS:** Custom-configured Linux environment.
+*   **OS:** Raspberry Pi Lite OS [64BIT].
 *   **Intelligence:** Driven by **Llama 3.3 (70B)** via Groq for wise, near-instant reasoning.
 *   **Deployment:** Hybrid architecture using a **Flask** backend optimized for Vercel.
 
