@@ -73,7 +73,3 @@ The assistant utilizes a "Divine Eye" (Webcam) and "Ear" (Microphone) for dual-m
 4.  The system captures audio locally, POSTs to the cloud backend, and streams back the high-fidelity response.
 
 ---
-
-## 📍 Origin
-**Developed in Kolkata, India.**
-*Focused on creating hardware-software synergy to solve technical challenges.*
